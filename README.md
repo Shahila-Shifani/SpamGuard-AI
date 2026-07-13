@@ -9,6 +9,33 @@ SpamGuard AI is a machine learning-based application that detects whether an SMS
 
 🚧 Currently under development
 
+## Project Structure
+
+```text
+SpamGuard-AI/
+├── data/
+│   ├── external/
+│   ├── interim/
+│   ├── processed/
+│   └── raw/
+├── docs/
+│   ├── api/
+│   ├── architecture/
+│   └── reports/
+├── models/
+│   ├── artifacts/
+│   └── checkpoints/
+├── notebooks/
+├── src/
+│   └── spamguard_ai/
+│       ├── data/
+│       ├── features/
+│       ├── inference/
+│       ├── models/
+│       └── utils/
+└── tests/
+```
+
 ## Planned Features
 
 - SMS dataset analysis

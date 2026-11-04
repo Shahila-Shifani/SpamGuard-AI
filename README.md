@@ -43,7 +43,11 @@ A dataset is a collection of examples. Each row has a label (`ham` or `spam`) an
 A confusion matrix counts correct and incorrect predictions for each class. Accuracy is the overall fraction correct, but precision and recall matter because missing spam and incorrectly flagging a genuine message have different costs.
 
 ## 9. Screenshots
-Capture your own Streamlit screenshot after training. The screenshots folder has instructions.
+![Home Page](screenshots/SpamGuard-AI.png)
+
+![Home Page](screenshots/SpamGuard-AI-b.png)
+
+![Home Page](screenshots/SpamGuard-AI-c.png)
 
 ## 10. What I learned
 Text cleaning, train/test splitting, TF-IDF, model training, evaluation metrics and saving a model.

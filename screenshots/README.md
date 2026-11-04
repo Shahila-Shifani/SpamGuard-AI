@@ -1,0 +1,1 @@
+Run the training script and Streamlit app, then save genuine screenshots here.
